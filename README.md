@@ -68,7 +68,9 @@ Start the development server:
 npm start
 ```
 The app should now be running at http://localhost:3000.
-
+```bash
+lastprep/
+│
 ├── backend/
 │   ├── models/
 │   │   └── Question.js      # Mongoose schema for questions
@@ -85,6 +87,7 @@ The app should now be running at http://localhost:3000.
 │   │   └── index.js         # Main entry point for React
 │
 └── README.md                # Project documentation
+```
 Usage
 Select a subject from the homepage.
 Answer 10 questions within the time limit (15 seconds per question).
