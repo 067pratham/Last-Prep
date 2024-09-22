@@ -1,0 +1,26 @@
+.results-title{
+    font-size: 4rem;
+}
+
+.result-display{
+    height: 15rem;
+    width: 100%;
+    margin-left: 37%;
+}
+.score-final{
+    color: green;
+    margin-left: 4rem;
+    font-size: 2rem;
+
+}
+.result-display button{
+    height: 2rem;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); 
+    transition: transform 0.3s ease;
+    margin-left: 8rem;
+}

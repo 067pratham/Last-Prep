@@ -1,0 +1,869 @@
+[
+    {"subject": "Operating Systems",
+      "questionText": "What is the main function of an operating system?",
+      "options": ["Manage hardware and software resources", "Provide security", "Control user interactions", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is a type of operating system?",
+      "options": ["Batch OS", "Real-time OS", "Time-sharing OS", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is not an operating system?",
+      "options": ["Windows", "Linux", "Android", "Java"],
+      "correctAnswer": "Java"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a process?",
+      "options": ["A program in execution", "A stored program", "A completed task", "None of the above"],
+      "correctAnswer": "A program in execution"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is virtual memory?",
+      "options": ["Memory not physically present", "RAM", "Cache memory", "ROM"],
+      "correctAnswer": "Memory not physically present"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is a process management function?",
+      "options": ["Scheduling", "Buffering", "Caching", "All of the above"],
+      "correctAnswer": "Scheduling"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a thread?",
+      "options": ["Lightweight process", "Heavyweight process", "A section of a program", "None of the above"],
+      "correctAnswer": "Lightweight process"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is the primary role of the kernel?",
+      "options": ["Manage system resources", "Provide user interface", "Handle application requests", "All of the above"],
+      "correctAnswer": "Manage system resources"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is deadlock?",
+      "options": ["A state where processes are blocked", "A process running indefinitely", "Resource allocation", "None of the above"],
+      "correctAnswer": "A state where processes are blocked"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which command is used to list files in UNIX?",
+      "options": ["ls", "dir", "list", "show"],
+      "correctAnswer": "ls"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is the function of a file system?",
+      "options": ["Organize files", "Manage memory", "Control hardware", "None of the above"],
+      "correctAnswer": "Organize files"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is not a scheduling algorithm?",
+      "options": ["FCFS", "RR", "LIFO", "SJF"],
+      "correctAnswer": "LIFO"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is paging?",
+      "options": ["Memory management scheme", "File allocation method", "Process scheduling", "None of the above"],
+      "correctAnswer": "Memory management scheme"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is the purpose of an interrupt?",
+      "options": ["Signal the CPU", "Indicate completion of a task", "Manage processes", "All of the above"],
+      "correctAnswer": "Signal the CPU"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which is a characteristic of a real-time operating system?",
+      "options": ["Time-sharing", "Deterministic", "Batch processing", "None of the above"],
+      "correctAnswer": "Deterministic"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a device driver?",
+      "options": ["Software that controls hardware", "Firmware", "Operating system kernel", "None of the above"],
+      "correctAnswer": "Software that controls hardware"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a shell?",
+      "options": ["Command line interface", "File manager", "Kernel", "All of the above"],
+      "correctAnswer": "Command line interface"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is a command for process control?",
+      "options": ["kill", "execute", "run", "start"],
+      "correctAnswer": "kill"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is the role of a bus in an OS?",
+      "options": ["Data transfer", "Memory management", "CPU scheduling", "None of the above"],
+      "correctAnswer": "Data transfer"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What does BIOS stand for?",
+      "options": ["Basic Input/Output System", "Binary Input/Output System", "Basic Integrated Operating System", "None of the above"],
+      "correctAnswer": "Basic Input/Output System"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which is not a type of OS?",
+      "options": ["Multi-user", "Multi-processing", "Single-tasking", "Single-threaded"],
+      "correctAnswer": "Single-threaded"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is context switching?",
+      "options": ["Switching between processes", "Changing user interfaces", "Switching memory locations", "None of the above"],
+      "correctAnswer": "Switching between processes"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a semaphore?",
+      "options": ["Synchronization tool", "Scheduling algorithm", "Memory management technique", "None of the above"],
+      "correctAnswer": "Synchronization tool"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is a fork in operating systems?",
+      "options": ["Creating a new process", "Terminating a process", "Killing a process", "None of the above"],
+      "correctAnswer": "Creating a new process"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What is the purpose of a cache?",
+      "options": ["Speed up data access", "Store data permanently", "Backup data", "None of the above"],
+      "correctAnswer": "Speed up data access"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "What does multitasking allow?",
+      "options": ["Multiple processes to run simultaneously", "Single process execution", "Threading", "None of the above"],
+      "correctAnswer": "Multiple processes to run simultaneously"
+    },
+    {"subject": "Operating Systems",
+      "questionText": "Which of the following is not a file operation?",
+      "options": ["Open", "Close", "Execute", "Delete"],
+      "correctAnswer": "Execute"
+    },
+    
+        {"subject": "Database Management Systems",
+          "questionText": "What does SQL stand for?",
+          "options": ["Structured Query Language", "Sequential Query Language", "Simple Query Language", "None of the above"],
+          "correctAnswer": "Structured Query Language"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a primary key?",
+          "options": ["A unique identifier for a record", "A foreign key", "A field that can contain null values", "None of the above"],
+          "correctAnswer": "A unique identifier for a record"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a foreign key?",
+          "options": ["A primary key from another table", "A unique identifier", "An index", "None of the above"],
+          "correctAnswer": "A primary key from another table"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "Which SQL statement is used to create a database?",
+          "options": ["CREATE DATABASE", "NEW DATABASE", "ADD DATABASE", "OPEN DATABASE"],
+          "correctAnswer": "CREATE DATABASE"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is normalization?",
+          "options": ["Organizing data to reduce redundancy", "Increasing redundancy", "Creating new tables", "None of the above"],
+          "correctAnswer": "Organizing data to reduce redundancy"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a join in SQL?",
+          "options": ["Combining rows from two or more tables", "Filtering data", "Creating new tables", "None of the above"],
+          "correctAnswer": "Combining rows from two or more tables"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What does the SELECT statement do?",
+          "options": ["Retrieves data", "Updates data", "Deletes data", "Inserts data"],
+          "correctAnswer": "Retrieves data"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "Which of the following is a type of SQL join?",
+          "options": ["INNER JOIN", "OUTER JOIN", "LEFT JOIN", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is an index?",
+          "options": ["A data structure for faster searches", "A type of SQL statement", "A table", "None of the above"],
+          "correctAnswer": "A data structure for faster searches"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "Which SQL command is used to delete data from a table?",
+          "options": ["DELETE", "DROP", "REMOVE", "TRUNCATE"],
+          "correctAnswer": "DELETE"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is ACID in database management?",
+          "options": ["Atomicity, Consistency, Isolation, Durability", "Availability, Consistency, Isolation, Durability", "Atomicity, Concurrency, Isolation, Durability", "None of the above"],
+          "correctAnswer": "Atomicity, Consistency, Isolation, Durability"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What does the UPDATE statement do?",
+          "options": ["Modifies existing records", "Adds new records", "Deletes records", "Retrieves records"],
+          "correctAnswer": "Modifies existing records"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a database schema?",
+          "options": ["Structure of the database", "A query", "A table", "None of the above"],
+          "correctAnswer": "Structure of the database"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "Which of the following is a NoSQL database?",
+          "options": ["MongoDB", "MySQL", "Oracle", "SQL Server"],
+          "correctAnswer": "MongoDB"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a view in SQL?",
+          "options": ["A virtual table", "A stored procedure", "A type of join", "None of the above"],
+          "correctAnswer": "A virtual table"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is data redundancy?",
+          "options": ["Unnecessary duplication of data", "Data backup", "Data normalization", "None of the above"],
+          "correctAnswer": "Unnecessary duplication of data"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a stored procedure?",
+          "options": ["A set of SQL statements stored in the database", "A data backup method", "A type of index", "None of the above"],
+          "correctAnswer": "A set of SQL statements stored in the database"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is the purpose of the GROUP BY clause?",
+          "options": ["To group rows sharing a property", "To filter rows", "To sort rows", "None of the above"],
+          "correctAnswer": "To group rows sharing a property"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a trigger in SQL?",
+          "options": ["A procedure that is automatically executed", "A type of join", "A constraint", "None of the above"],
+          "correctAnswer": "A procedure that is automatically executed"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a data model?",
+          "options": ["A conceptual representation of data", "A physical database", "A type of query", "None of the above"],
+          "correctAnswer": "A conceptual representation of data"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "Which of the following is a SQL function?",
+          "options": ["COUNT()", "SUM()", "AVG()", "All of the above"],
+          "correctAnswer": "All of the above"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What does the DISTINCT keyword do?",
+          "options": ["Removes duplicates", "Sorts data", "Filters data", "None of the above"],
+          "correctAnswer": "Removes duplicates"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is a composite key?",
+          "options": ["A key made of two or more columns", "A unique key", "A primary key", "None of the above"],
+          "correctAnswer": "A key made of two or more columns"
+        },
+        {"subject": "Database Management Systems",
+          "questionText": "What is the purpose of the WHERE clause?",
+          "options": ["To filter records", "To group records", "To sort records", "None of the above"],
+          "correctAnswer": "To filter records"
+        },
+        
+            {"subject": "Computer Networks",
+              "questionText": "What does IP stand for?",
+              "options": ["Internet Protocol", "Internal Protocol", "Interconnected Protocol", "Internet Process"],
+              "correctAnswer": "Internet Protocol"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which layer of the OSI model does TCP operate on?",
+              "options": ["Transport layer", "Network layer", "Data link layer", "Application layer"],
+              "correctAnswer": "Transport layer"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is the main function of a router?",
+              "options": ["Connect different networks", "Amplify signals", "Filter data", "Store data"],
+              "correctAnswer": "Connect different networks"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which protocol is used to send email?",
+              "options": ["SMTP", "FTP", "HTTP", "TCP"],
+              "correctAnswer": "SMTP"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is a MAC address?",
+              "options": ["A hardware address", "An IP address", "A network protocol", "None of the above"],
+              "correctAnswer": "A hardware address"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which of the following is not a network topology?",
+              "options": ["Star", "Ring", "Bus", "Tree", "Cube"],
+              "correctAnswer": "Cube"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What does DNS stand for?",
+              "options": ["Domain Name System", "Dynamic Network Service", "Data Network System", "None of the above"],
+              "correctAnswer": "Domain Name System"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is the main purpose of a firewall?",
+              "options": ["Prevent unauthorized access", "Speed up network traffic", "Store data", "None of the above"],
+              "correctAnswer": "Prevent unauthorized access"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which of the following protocols is used for secure communication?",
+              "options": ["HTTPS", "HTTP", "FTP", "SMTP"],
+              "correctAnswer": "HTTPS"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is bandwidth?",
+              "options": ["Data transfer capacity", "Latency", "Packet size", "None of the above"],
+              "correctAnswer": "Data transfer capacity"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is a VPN?",
+              "options": ["Virtual Private Network", "Variable Protocol Network", "Virtual Public Network", "None of the above"],
+              "correctAnswer": "Virtual Private Network"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is the function of a switch?",
+              "options": ["Connect devices within a network", "Connect different networks", "Store data", "None of the above"],
+              "correctAnswer": "Connect devices within a network"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is the maximum length of a CAT5 cable?",
+              "options": ["100 meters", "200 meters", "300 meters", "500 meters"],
+              "correctAnswer": "100 meters"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which device operates at the network layer of the OSI model?",
+              "options": ["Router", "Switch", "Hub", "Bridge"],
+              "correctAnswer": "Router"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is a network protocol?",
+              "options": ["A set of rules for communication", "A network device", "A type of software", "None of the above"],
+              "correctAnswer": "A set of rules for communication"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which of the following is not a valid IP address?",
+              "options": ["192.168.1.1", "255.255.255.255", "256.256.256.256", "127.0.0.1"],
+              "correctAnswer": "256.256.256.256"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What does NAT stand for?",
+              "options": ["Network Address Translation", "Network Access Technology", "Node Address Translation", "None of the above"],
+              "correctAnswer": "Network Address Translation"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is a packet?",
+              "options": ["A formatted unit of data", "A network device", "A protocol", "None of the above"],
+              "correctAnswer": "A formatted unit of data"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which of the following is a broadband technology?",
+              "options": ["DSL", "Dial-up", "ISDN", "None of the above"],
+              "correctAnswer": "DSL"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is latency?",
+              "options": ["Delay in data transmission", "Data transfer capacity", "Packet size", "None of the above"],
+              "correctAnswer": "Delay in data transmission"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is the purpose of a subnet mask?",
+              "options": ["Identify the network and host portions of an IP address", "Filter traffic", "Encrypt data", "None of the above"],
+              "correctAnswer": "Identify the network and host portions of an IP address"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "Which layer of the OSI model is responsible for error detection?",
+              "options": ["Data Link layer", "Transport layer", "Network layer", "Application layer"],
+              "correctAnswer": "Data Link layer"
+            },
+            {"subject": "Computer Networks",
+              "questionText": "What is an intranet?",
+              "options": ["A private network within an organization", "A public network", "A type of malware", "None of the above"],
+              "correctAnswer": "A private network within an organization"
+            },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "Which data structure uses LIFO?",
+                  "options": ["Queue", "Stack", "Array", "Linked List"],
+                  "correctAnswer": "Stack"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is the time complexity of binary search?",
+                  "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+                  "correctAnswer": "O(log n)"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "Which data structure is used for breadth-first search?",
+                  "options": ["Stack", "Queue", "Tree", "Graph"],
+                  "correctAnswer": "Queue"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a linked list?",
+                  "options": ["A linear data structure", "A non-linear data structure", "A static data structure", "None of the above"],
+                  "correctAnswer": "A linear data structure"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "Which algorithm is used for sorting?",
+                  "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "All of the above"],
+                  "correctAnswer": "All of the above"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is the space complexity of an array?",
+                  "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+                  "correctAnswer": "O(n)"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a tree?",
+                  "options": ["A non-linear data structure", "A linear data structure", "A type of array", "None of the above"],
+                  "correctAnswer": "A non-linear data structure"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "Which of the following is a searching algorithm?",
+                  "options": ["Linear Search", "Binary Search", "Interpolation Search", "All of the above"],
+                  "correctAnswer": "All of the above"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a graph?",
+                  "options": ["A collection of nodes", "A collection of edges", "A collection of nodes and edges", "None of the above"],
+                  "correctAnswer": "A collection of nodes and edges"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is recursion?",
+                  "options": ["A method of solving problems by breaking them into smaller problems", "A loop", "An iterative process", "None of the above"],
+                  "correctAnswer": "A method of solving problems by breaking them into smaller problems"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a hash table?",
+                  "options": ["A data structure that maps keys to values", "An array", "A tree", "None of the above"],
+                  "correctAnswer": "A data structure that maps keys to values"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "Which of the following is a characteristic of a stack?",
+                  "options": ["Last In First Out", "First In First Out", "Random access", "None of the above"],
+                  "correctAnswer": "Last In First Out"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is dynamic programming?",
+                  "options": ["A method for solving complex problems", "A type of data structure", "A sorting algorithm", "None of the above"],
+                  "correctAnswer": "A method for solving complex problems"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a queue?",
+                  "options": ["First In First Out", "Last In First Out", "Random access", "None of the above"],
+                  "correctAnswer": "First In First Out"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What does Big O notation describe?",
+                  "options": ["The performance of an algorithm", "The speed of an algorithm", "The space used by an algorithm", "None of the above"],
+                  "correctAnswer": "The performance of an algorithm"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is an AVL tree?",
+                  "options": ["A self-balancing binary search tree", "A type of linked list", "A hash table", "None of the above"],
+                  "correctAnswer": "A self-balancing binary search tree"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a binary tree?",
+                  "options": ["A tree where each node has at most two children", "A tree with no children", "A tree with multiple children", "None of the above"],
+                  "correctAnswer": "A tree where each node has at most two children"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is the purpose of a stack?",
+                  "options": ["Store data temporarily", "Sort data", "Search data", "None of the above"],
+                  "correctAnswer": "Store data temporarily"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is the time complexity of insertion in a linked list?",
+                  "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+                  "correctAnswer": "O(1)"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a breadth-first search?",
+                  "options": ["An algorithm for traversing a tree or graph", "A sorting algorithm", "A searching algorithm", "None of the above"],
+                  "correctAnswer": "An algorithm for traversing a tree or graph"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a depth-first search?",
+                  "options": ["An algorithm for traversing a tree or graph", "A sorting algorithm", "A searching algorithm", "None of the above"],
+                  "correctAnswer": "An algorithm for traversing a tree or graph"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is a binary search tree?",
+                  "options": ["A tree structure where each node has at most two children", "A self-balancing tree", "A tree with no duplicates", "None of the above"],
+                  "correctAnswer": "A tree structure where each node has at most two children"
+                },
+                {"subject": "Data Structures and Algorithms",
+                  "questionText": "What is the main advantage of a linked list over an array?",
+                  "options": ["Dynamic size", "Faster access", "Random access", "None of the above"],
+                  "correctAnswer": "Dynamic size"
+                },
+                
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What does the term 'algorithm' refer to?",
+                      "options": ["A step-by-step procedure for solving a problem", "A type of data structure", "A programming language", "None of the above"],
+                      "correctAnswer": "A step-by-step procedure for solving a problem"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is time complexity?",
+                      "options": ["A measure of the time taken by an algorithm", "A measure of space used", "A type of sorting algorithm", "None of the above"],
+                      "correctAnswer": "A measure of the time taken by an algorithm"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is space complexity?",
+                      "options": ["A measure of memory used by an algorithm", "A type of sorting algorithm", "A measure of time used", "None of the above"],
+                      "correctAnswer": "A measure of memory used by an algorithm"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a greedy algorithm?",
+                      "options": ["An algorithm that makes the locally optimal choice", "An algorithm that uses recursion", "An algorithm that always finds the best solution", "None of the above"],
+                      "correctAnswer": "An algorithm that makes the locally optimal choice"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is divide and conquer?",
+                      "options": ["An algorithm design paradigm", "A type of sorting algorithm", "A data structure", "None of the above"],
+                      "correctAnswer": "An algorithm design paradigm"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is big O notation used for?",
+                      "options": ["To describe the performance of an algorithm", "To measure time", "To measure space", "None of the above"],
+                      "correctAnswer": "To describe the performance of an algorithm"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a recursive algorithm?",
+                      "options": ["An algorithm that calls itself", "An iterative algorithm", "A sorting algorithm", "None of the above"],
+                      "correctAnswer": "An algorithm that calls itself"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is dynamic programming?",
+                      "options": ["An optimization technique", "A sorting algorithm", "A searching algorithm", "None of the above"],
+                      "correctAnswer": "An optimization technique"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a backtracking algorithm?",
+                      "options": ["An algorithm for solving problems incrementally", "A type of sorting algorithm", "A data structure", "None of the above"],
+                      "correctAnswer": "An algorithm for solving problems incrementally"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "Which of the following is not a sorting algorithm?",
+                      "options": ["Quick Sort", "Merge Sort", "Binary Search", "Bubble Sort"],
+                      "correctAnswer": "Binary Search"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is the main advantage of a binary search?",
+                      "options": ["Faster than linear search", "Easier to implement", "Requires unsorted data", "None of the above"],
+                      "correctAnswer": "Faster than linear search"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a heuristic?",
+                      "options": ["A problem-solving approach", "A type of algorithm", "A data structure", "None of the above"],
+                      "correctAnswer": "A problem-solving approach"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is the difference between in-place and out-of-place algorithms?",
+                      "options": ["Memory usage", "Time complexity", "Data structures", "None of the above"],
+                      "correctAnswer": "Memory usage"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a sorting algorithm?",
+                      "options": ["An algorithm that arranges data", "An algorithm that searches data", "An algorithm that compresses data", "None of the above"],
+                      "correctAnswer": "An algorithm that arranges data"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What does the term 'NP-complete' refer to?",
+                      "options": ["A class of problems for which no efficient solution is known", "A type of sorting algorithm", "A data structure", "None of the above"],
+                      "correctAnswer": "A class of problems for which no efficient solution is known"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is the purpose of a sorting algorithm?",
+                      "options": ["To arrange data in a specific order", "To search for data", "To compress data", "None of the above"],
+                      "correctAnswer": "To arrange data in a specific order"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is a linear search?",
+                      "options": ["An algorithm that checks each element", "A type of sorting algorithm", "A data structure", "None of the above"],
+                      "correctAnswer": "An algorithm that checks each element"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is the main advantage of merge sort?",
+                      "options": ["Stable sorting", "In-place sorting", "Fast for small datasets", "None of the above"],
+                      "correctAnswer": "Stable sorting"
+                    },
+                    {"subject": "Design and Analysis of Algorithms",
+                      "questionText": "What is the main disadvantage of a bubble sort?",
+                      "options": ["Inefficient for large datasets", "Stable sorting", "Requires a sorted array", "None of the above"],
+                      "correctAnswer": "Inefficient for large datasets"
+                    },
+                    
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a class in C++?",
+                          "options": ["A blueprint for creating objects", "A data type", "A function", "None of the above"],
+                          "correctAnswer": "A blueprint for creating objects"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is inheritance in C++?",
+                          "options": ["A mechanism to acquire properties from another class", "A type of function", "A data structure", "None of the above"],
+                          "correctAnswer": "A mechanism to acquire properties from another class"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is polymorphism?",
+                          "options": ["The ability to present the same interface for different data types", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "The ability to present the same interface for different data types"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is encapsulation?",
+                          "options": ["The bundling of data and methods", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "The bundling of data and methods"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a constructor?",
+                          "options": ["A special method that is called when an object is created", "A type of function", "A data structure", "None of the above"],
+                          "correctAnswer": "A special method that is called when an object is created"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is destructor in C++?",
+                          "options": ["A special method that is called when an object is destroyed", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "A special method that is called when an object is destroyed"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a virtual function?",
+                          "options": ["A function that can be overridden in derived classes", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "A function that can be overridden in derived classes"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is the purpose of the 'new' keyword?",
+                          "options": ["To allocate memory dynamically", "To create an object", "To delete an object", "None of the above"],
+                          "correctAnswer": "To allocate memory dynamically"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is operator overloading?",
+                          "options": ["The ability to redefine the meaning of an operator for user-defined types", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "The ability to redefine the meaning of an operator for user-defined types"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a friend function?",
+                          "options": ["A function that can access private members of a class", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "A function that can access private members of a class"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is an abstract class?",
+                          "options": ["A class that cannot be instantiated", "A type of data structure", "A type of function", "None of the above"],
+                          "correctAnswer": "A class that cannot be instantiated"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is multiple inheritance?",
+                          "options": ["Inheriting from more than one class", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "Inheriting from more than one class"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is the purpose of the 'this' pointer?",
+                          "options": ["To refer to the current object", "To create an object", "To delete an object", "None of the above"],
+                          "correctAnswer": "To refer to the current object"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is the purpose of the 'static' keyword?",
+                          "options": ["To maintain a single instance of a variable", "To create an object", "To delete an object", "None of the above"],
+                          "correctAnswer": "To maintain a single instance of a variable"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a namespace?",
+                          "options": ["A declarative region that provides a scope to identifiers", "A type of error", "A data structure", "None of the above"],
+                          "correctAnswer": "A declarative region that provides a scope to identifiers"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a template in C++?",
+                          "options": ["A feature that allows functions and classes to operate with generic types", "A type of data structure", "A type of error", "None of the above"],
+                          "correctAnswer": "A feature that allows functions and classes to operate with generic types"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is exception handling?",
+                          "options": ["A mechanism to handle runtime errors", "A type of data structure", "A type of function", "None of the above"],
+                          "correctAnswer": "A mechanism to handle runtime errors"
+                        },
+                        {"subject": "C++ Programming",
+                          "questionText": "What is a stack in C++?",
+                          "options": ["A data structure that follows LIFO principle", "A type of error", "A type of function", "None of the above"],
+                          "correctAnswer": "A data structure that follows LIFO principle"
+                        },
+                        
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What are the four main principles of OOP?",
+                              "options": ["Encapsulation, Inheritance, Polymorphism, Abstraction", "Encapsulation, Overloading, Polymorphism, Inheritance", "Abstraction, Encapsulation, Polymorphism, Composition", "None of the above"],
+                              "correctAnswer": "Encapsulation, Inheritance, Polymorphism, Abstraction"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is encapsulation?",
+                              "options": ["Hiding the internal state of an object", "A method for organizing code", "A type of error", "None of the above"],
+                              "correctAnswer": "Hiding the internal state of an object"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is inheritance?",
+                              "options": ["The mechanism of acquiring properties from another class", "A type of function", "A data structure", "None of the above"],
+                              "correctAnswer": "The mechanism of acquiring properties from another class"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is polymorphism?",
+                              "options": ["The ability to present the same interface for different data types", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "The ability to present the same interface for different data types"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is abstraction?",
+                              "options": ["Hiding complex implementation details", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "Hiding complex implementation details"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is a class?",
+                              "options": ["A blueprint for creating objects", "A type of data structure", "A function", "None of the above"],
+                              "correctAnswer": "A blueprint for creating objects"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is an object?",
+                              "options": ["An instance of a class", "A type of data structure", "A function", "None of the above"],
+                              "correctAnswer": "An instance of a class"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is method overloading?",
+                              "options": ["Defining multiple methods with the same name but different parameters", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "Defining multiple methods with the same name but different parameters"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is method overriding?",
+                              "options": ["Defining a method in a derived class that already exists in the base class", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "Defining a method in a derived class that already exists in the base class"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is a constructor?",
+                              "options": ["A special method called when an object is created", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "A special method called when an object is created"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is a destructor?",
+                              "options": ["A special method called when an object is destroyed", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "A special method called when an object is destroyed"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is an interface?",
+                              "options": ["A contract that defines methods without implementing them", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "A contract that defines methods without implementing them"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is a subclass?",
+                              "options": ["A class that inherits from another class", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "A class that inherits from another class"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is a superclass?",
+                              "options": ["A class from which other classes inherit", "A type of error", "A data structure", "None of the above"],
+                              "correctAnswer": "A class from which other classes inherit"
+                            },
+                            {"subject": "Object-Oriented Programming",
+                              "questionText": "What is the purpose of access modifiers?",
+                              "options": ["To define the visibility of class members", "To create a new object", "To delete an object", "None of the above"],
+                              "correctAnswer": "To define the visibility of class members"
+                            },
+                            
+                                {"subject": "C Programming",
+                                  "questionText": "What is the correct syntax to declare a variable in C?",
+                                  "options": ["int x;", "int x = 5;", "x int;", "int: x;"],
+                                  "correctAnswer": "int x = 5;"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is a pointer?",
+                                  "options": ["A variable that stores the address of another variable", "A data type", "A function", "None of the above"],
+                                  "correctAnswer": "A variable that stores the address of another variable"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the size of int in C?",
+                                  "options": ["2 bytes", "4 bytes", "8 bytes", "Depends on the compiler"],
+                                  "correctAnswer": "Depends on the compiler"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "Which of the following is a correct way to comment in C?",
+                                  "options": ["// Comment", "/* Comment */", "// Comment /*", "All of the above"],
+                                  "correctAnswer": "All of the above"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the purpose of the 'return' statement?",
+                                  "options": ["To exit a function", "To return a value from a function", "To end a program", "Both A and B"],
+                                  "correctAnswer": "Both A and B"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What does 'printf' do in C?",
+                                  "options": ["Prints output to the console", "Takes input from the user", "Reads a file", "None of the above"],
+                                  "correctAnswer": "Prints output to the console"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the use of the 'scanf' function?",
+                                  "options": ["To read input from the console", "To print output to the console", "To declare variables", "None of the above"],
+                                  "correctAnswer": "To read input from the console"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is an array?",
+                                  "options": ["A collection of variables of the same type", "A type of function", "A single variable", "None of the above"],
+                                  "correctAnswer": "A collection of variables of the same type"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "Which of the following is the correct syntax for a for loop?",
+                                  "options": ["for (i = 0; i < 10; i++)", "for i = 0 to 10", "for (i < 10; i++)", "for (i = 0; i < 10)"],
+                                  "correctAnswer": "for (i = 0; i < 10; i++)"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is a function?",
+                                  "options": ["A block of code that performs a specific task", "A type of variable", "A data structure", "None of the above"],
+                                  "correctAnswer": "A block of code that performs a specific task"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the purpose of the 'main' function?",
+                                  "options": ["It is the entry point of a C program", "It defines variables", "It returns values", "None of the above"],
+                                  "correctAnswer": "It is the entry point of a C program"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is recursion?",
+                                  "options": ["A function that calls itself", "A type of loop", "A data structure", "None of the above"],
+                                  "correctAnswer": "A function that calls itself"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "Which operator is used for pointer dereferencing?",
+                                  "options": ["&", "*", "->", "->*"],
+                                  "correctAnswer": "*"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is a structure in C?",
+                                  "options": ["A user-defined data type", "A built-in data type", "A type of loop", "None of the above"],
+                                  "correctAnswer": "A user-defined data type"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What does the 'sizeof' operator do?",
+                                  "options": ["Returns the size of a variable in bytes", "Returns the size of an array", "Declares a variable", "None of the above"],
+                                  "correctAnswer": "Returns the size of a variable in bytes"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "Which of the following is not a valid variable name?",
+                                  "options": ["var1", "1var", "var_1", "VAR1"],
+                                  "correctAnswer": "1var"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the difference between '==' and '='?",
+                                  "options": ["'==' is for comparison, '=' is for assignment", "'==' is for assignment, '=' is for comparison", "They are the same", "None of the above"],
+                                  "correctAnswer": "'==' is for comparison, '=' is for assignment"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the use of the 'break' statement?",
+                                  "options": ["To exit a loop", "To exit a function", "To continue to the next iteration", "None of the above"],
+                                  "correctAnswer": "To exit a loop"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is the output of the following code: printf('%d', 10 + 20);?",
+                                  "options": ["30", "1020", "10 + 20", "None of the above"],
+                                  "correctAnswer": "30"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "Which of the following is the correct way to declare a function?",
+                                  "options": ["void functionName()", "functionName void()", "void functionName[]", "None of the above"],
+                                  "correctAnswer": "void functionName()"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is a linked list?",
+                                  "options": ["A data structure consisting of nodes", "A type of array", "A built-in data type", "None of the above"],
+                                  "correctAnswer": "A data structure consisting of nodes"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What is a binary tree?",
+                                  "options": ["A tree data structure where each node has at most two children", "A type of variable", "A built-in data type", "None of the above"],
+                                  "correctAnswer": "A tree data structure where each node has at most two children"
+                                },
+                                {"subject": "C Programming",
+                                  "questionText": "What does 'exit(0)' do?",
+                                  "options": ["Terminates the program", "Returns to the main function", "Stops a loop", "None of the above"],
+                                  "correctAnswer": "Terminates the program"
+                                }
+                              ]
+  
